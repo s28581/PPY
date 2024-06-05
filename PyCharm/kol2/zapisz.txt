@@ -1,0 +1,3 @@
+1 Chleb Pieczywo 3.50 10
+3 Jablko Owoce 1.50 30
+2 Mleko Nabial 2.80 20
